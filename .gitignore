@@ -1,0 +1,19 @@
+# 忽略所有大模型权重和中间件
+*.pth
+*.pt
+*.safetensors
+*.bin
+chexnet_weights.pth
+
+
+*.json
+*.jsonl
+*.csv
+*.log
+logs/
+output/
+pred/
+__pycache__/
+*.png
+*.jpg
+*.pdf
